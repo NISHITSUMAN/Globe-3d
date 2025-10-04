@@ -47,7 +47,7 @@ export default function Header() {
             <a href="https://globe-3d-chi.vercel.app/" className="text-sm font-medium hover:text-accent transition-colors">3D Earth</a>
             <a href="/components/AQICard" className="text-sm font-medium hover:text-accent transition-colors">Forecast</a>
             <a href="#data" className="text-sm font-medium hover:text-accent transition-colors">Data</a>
-            <a href="#AI" className="text-sm font-medium hover:text-accent transition-colors">AI</a>
+            <a href="https://aero-ai-mu.vercel.app/" className="text-sm font-medium hover:text-accent transition-colors">AI</a>
           </nav>
 
           {/* Mobile Menu Button */}
